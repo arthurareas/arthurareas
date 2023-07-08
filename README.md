@@ -26,6 +26,3 @@
   ![Snake animation](https://github.com/arthurareas/arthurareas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-fred-icon
-AskFred
-dragger-icon
